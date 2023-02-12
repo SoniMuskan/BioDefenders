@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931996479103",
+    "project_id": "medtech-4073f",
+    "storage_bucket": "medtech-4073f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931996479103:android:6feb419e51b96bf8b9994a",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931996479103-kqvj2pruh4sugjkp4g02ddvsm08l2t9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoeYHpDQk4kBdPA9slHwZbT9YNfTdBBXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931996479103-kqvj2pruh4sugjkp4g02ddvsm08l2t9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
